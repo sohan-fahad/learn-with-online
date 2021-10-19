@@ -1,0 +1,9 @@
+.footer-link {
+    color: azure;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+.footer-link:hover {
+    color: black;
+}
